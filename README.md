@@ -1,3 +1,3 @@
 # Rane
 Harjotellaan
-Lisätään rivi
+Tuhottiin ja lisättiin uusi rivi
